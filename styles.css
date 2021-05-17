@@ -1,5 +1,4 @@
 
-
 * {
     margin: 0;
     padding: 0;
@@ -185,7 +184,7 @@ body{
 }
 
 .plant-grid4 {
-    background: url(images/Fan_Arts/Akali.png);
+    background: url(images/Fan_Arts/Irelia.jpg);
     grid-column: 2 / 4;
     grid-row: 3 / 5;
 }
